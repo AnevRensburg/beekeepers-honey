@@ -1,0 +1,36 @@
+/* Generated from sites/beekeepers-honey/site.json. */
+:root {
+  --bg: #fffaf1;
+  --bg-alt: #fbf0db;
+  --surface: #ffffff;
+  --ink: #22180a;
+  --muted: #6e5f49;
+  --line: #efe2c8;
+  --accent: #eba81c;
+  --accent-strong: #a8690a;
+  --accent-ink: #22180a;
+  --accent-soft: #fdeecb;
+  --accent-on-dark: #f6c453;
+  --dark: #2b1d0b;
+  --dark-ink: #fff8ea;
+  --error: #b42318;
+  --font-display: 'Fraunces', Georgia, serif;
+  --font-body: 'Nunito Sans', 'Helvetica Neue', Arial, sans-serif;
+  --display-weight: 600;
+  --display-tracking: -0.015em;
+  --radius: 20px;
+  --button-radius: 999px;
+  --hero-position: center 40%;
+  --logo-ratio: 1;
+  --product-position: center;
+  --topbar-bg: #ffffff;
+  --topbar-ink: #22180a;
+  --topbar-line: #efe2c8;
+  --product-fit: cover;
+  --product-bg: #fffaf1;
+  --logo-bg: transparent;
+  --logo-pad: 0;
+  --gutter: clamp(1rem, 4vw, 3rem);
+  --max-width: 1200px;
+  color-scheme: light;
+}
